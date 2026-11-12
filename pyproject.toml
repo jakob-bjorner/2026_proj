@@ -9,5 +9,6 @@ dependencies = [
     "jupyter>=1.1.1",
     "matplotlib>=3.11.2",
     "torch>=2.14.1",
+    "torchopt>=0.7.3",
     "torchvision>=0.29.1",
 ]
